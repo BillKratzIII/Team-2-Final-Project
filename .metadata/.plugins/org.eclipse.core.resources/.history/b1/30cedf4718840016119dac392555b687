@@ -1,0 +1,5 @@
+package com.final_project.config;
+
+public class MvcConfig {
+
+}
